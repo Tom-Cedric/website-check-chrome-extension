@@ -1,0 +1,12 @@
+{
+    "name": "Website Check by nxtproject",
+    "version": "0.0.1",
+    "description": "Website check for CMS and Marketing.",
+    "manifest_version": 3,
+    "author": "Tom Gottschlich",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Website check by nxtproject",
+        "default_icon": "style/img/icon.png"
+    }
+}
